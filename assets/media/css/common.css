@@ -1,0 +1,62 @@
+.wrapper{
+    margin:0 auto;
+    width:1300px;
+}
+.wrapper .well{
+    padding: 0;
+}
+td{
+    min-width: 130px;
+}
+.form{
+    margin:0 auto;
+    width:280px;
+    text-align:center;
+}
+.form label{
+    display: block;
+    width:150px;
+}
+span.required{
+    color:red;
+}
+.errorMessage{
+    color:red;
+}
+#finish div, .thanks{
+    width: 300px;
+    margin:40px auto;
+    text-align: center;
+}
+ul.ts > li {
+    width: 280px;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    border:1px solid #cdcdcd;
+    background-color: #E0E0ED;
+    border-radius: 6px;
+}
+
+ul.ts img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+div.teachers{
+    background-color: #C9E0ED;
+    border:1px solid #0A246A;
+    padding:10px;
+}
+ul.tss li{
+    list-style:none;
+    display: inline-block;
+    width: 280px;
+    padding:2px;
+}
+div.questions{
+    margin-top: 20px;
+    background-color: #FFF6BF;
+    border:1px solid #FFD324;
+    padding:10px;
+}

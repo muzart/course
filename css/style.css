@@ -1,0 +1,67 @@
+body{
+    font-family: Arial, Helvetica, Tahoma, Verdana, Sans-Serif;
+}
+th{
+    background-color: #ffe968;
+}
+.course img{
+    float: left;
+    margin: 10px;
+    max-width: 300px;
+    max-height: 300px;
+}
+.panel-body img{
+    height: 300px;
+}
+.grid-view table.items th{
+    background-image: none;
+    background-color: #18bc9c;
+}
+.grid-view table.items tr.odd{
+    background-color: #d2f7ff;
+}
+table.detail-view tr.odd{
+    background-color: #eeeeee;
+}
+.ui-widget-content{
+    border: 1px solid #0f7864;
+    background-image: none;
+    background-color: #a3bcb3;
+}
+.ui-widget-header{
+    border: 1px solid #0f7864;
+    background-image: none;
+    background-color: #afe4de;
+}
+.ui-state-hover{
+    background-image: none;
+    background-color: #18bc9c;
+}
+.portlet-title{
+    display: block;
+    text-align: center;
+    padding: 10px;
+    background-color: #5bc0de;
+    color: #ffffff;
+}
+#sidebar{
+    border: 1px solid #0f7864;
+}
+ul.operations li{
+    list-style: none;
+}
+ul.operations li a{
+    display: block;
+    padding: 5px 10px 5px 0px;
+}
+.input-group-addon{
+    width:200px;
+}
+div.teacher{
+    overflow: hidden;
+    height: 300px;
+}
+.pager li>a, .pager li>span {
+    border-radius: 3px;
+    margin-left: 3px;
+}
